@@ -4,6 +4,7 @@ Description of protocol used to create lab stocks of electrocompetent *E. coli*.
 The 750 mL bottle protocol was the original one, but the 250 mL bottle protocol is more commonly used.
 
 [250 mL bottle (common protocol)](#protocol-with-250-ml-bottles)
+
 [750 mL bottles](#protocol-with-750-ml-bottles)
 
 ## Protocol with 250 mL bottles
