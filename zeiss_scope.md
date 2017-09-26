@@ -20,14 +20,16 @@
 ### Set-up
 To turn on the scope:
 1. Turn on fluorecenst lamp
-    - Lamp should warm up for approximately 5 minutes
+    - Lamp should warm up for approximately 5 minutes before use
     - After shut down, let lamp rest at least 15 minutes before turning on again
     - To prevent wear, do not leave on lamp for more than 1 hour if not in use
-    - Iris should be fully open.
-1. Turn on EMS/SYCOP3
+    - Iris should be fully open (dial on lamp box). Use computer to adjust settings if needed. 
+1. Turn on EMS/SYCOP3 (Scope power source and controls)
     - Press botton on EMS box; blue light on box should turn on.
+    - Can be turned off by pressing power button on EMS3 box or through the power button on the SYCLOPS home menu
 1. Turn on Transmitted Light Base
     - Button is on bottom right side of the scope
+    - This is a LED light source
 1. Open Software
  
 ### Manual Operations
@@ -53,13 +55,24 @@ Right Bottom
   - An oblique can be set up for dark field images
   
 #### Motorized stage
-This is controled by the SYCOP or software
+This is controled by the SYCOP joystick or software. It is used for tiling images.
 
 #### Apature
 Generally, this should be all the way open. Reducing apature size can give more depth of field and resoulation but at the expense of having less light making images harder to acquire or the need for long exposure times.
 
 ### SYCOP Control
- 
+Operation of the scope uses the joystick, wheels, and touch screen.
+
+#### Joystick and wheels
+There are two settings for the joystick, the standard one when no motorized stage is present and one for use with the motorized stage. To toggle between the two, press the joystick like a button until you hear it click.
+
+Non-motorized stage:
+- joystick up/down controls Z motion
+
+Motorized stage:
+- joystick controls x/y motion
+- left wheel controls
+- right wheel controls
  
 ## Software
 The scope uses ZEN for image capture and processing. 
@@ -88,11 +101,17 @@ For the more complex processes listed below, if multiple are in use then set up 
  
 ### Cleaning
  - glass base can be removed and cleaned
- - eye pieces 
+ - eye piece rubber guards - clean with 70% EtOH on scope, or remove and wash with warm soapy water
+ - don't use gloves when operating scope to prevent spread of lab bacteria/reagents to controls
   
-### Red Eye Guard
-Safety feature not necessary on this scope since it uses fluorescent light. May be helpful 
+### Red Eye-Guard
+Safety feature not necessary on this scope since it uses fluorescent light and not a laser. May be helpful when viewing samples with the naked eye so your eyes don't need to adjust as much.
  
+### Z-boundry
+On back right of scope, there are gray screws which are used to set the Z boundry.
+
+### Red STOP button
+This is an emergency brake. Press button and scope will cease movement. This physically locks the scope. Once the problem is cleared, pull the button back out to resume scope use as normal.
  
 ## Other Resources
 PDF manuals are saved on Zeiss computer
