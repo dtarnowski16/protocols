@@ -31,6 +31,7 @@ To turn on the scope:
     - Button is on bottom right side of the scope
     - This is a LED light source
 1. Open Software
+    - Open Zen and choose Zen Pro. Alternatively, can choose image processor if scope is off and you just need to image/edit pictures.
  
 ### Manual Operations
  
@@ -41,7 +42,7 @@ To turn on the scope:
   - 102 color camera - used for transmitted light imaging, mirror is pushed in
   
 #### Fluorescence:
-Top left indicates which fluorescent cubes are in use. This information can also be located...
+Top left indicates which fluorescent cubes are in use. This information can also be located on the SYCOP or on the software interface.
 You may also switch between fluorescent cubes here. Position #4 is left empty as a bright field option to be used during fluorescent imaging.
   
 #### Scope Base:
@@ -64,7 +65,7 @@ Generally, this should be all the way open. Reducing apature size can give more 
 Operation of the scope uses the joystick, wheels, and touch screen.
 
 #### Joystick and wheels
-There are two settings for the joystick, the standard one when no motorized stage is present and one for use with the motorized stage. To toggle between the two, press the joystick like a button until you hear it click.
+There are two settings for the joystick, the standard one when no motorized stage is present and one for use with the motorized stage. To toggle between the two, press down on the joystick like a button until you hear it click.
 
 Non-motorized stage:
 - joystick up/down controls Z motion
@@ -77,8 +78,15 @@ Motorized stage:
 ## Software
 The scope uses ZEN for image capture and processing. 
 ZEN Lite, a simpler version of the software, can be downloaded for personal use from [here](https://www.zeiss.com/microscopy/us/products/microscope-software/zen-lite.html). 
+FIJI can also be used to open images and process.
  
-### Set-up and Scope Operation
+### Set-up and Scope Operation  
+Basic layout of the software interface is as follows:  
+- Left side: control of microscope and picture aquisition and editing
+- Right side: shows all images you have open
+- Tabs on top: each is an open picture
+- Center screen: current picture you have open, can be still image or live
+- Bottom: Options for viewing picture - can move through channels/z-stacks/time series
  
 ### Basic Image Processing
  
