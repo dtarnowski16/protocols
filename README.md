@@ -34,6 +34,7 @@
 
 ### Squid
 - [Colonization](files/squid-colonization.md)
+- [Determining colonization levels with spiral plating](files/squid-colonization-with-spiral-plater.md)
 - [Colonization for aggregates](files/squid-colonization-aggregates.md)
 - [Colonization for INSeq](files/squid-colonization-inseq.md)
 - [Competition assay](files/squid-competitions.md)
