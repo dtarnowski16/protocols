@@ -48,6 +48,8 @@ The [competition protocol](squid-competitions.md) uses the same scaffold as this
 1. Transfer each squid in a volume of approximately 700 μl to a 1.5 ml microcentrifuge tube from Step 4.12. Move to a cardboard freezer box. Once the lid is placed on the box, do not remove it as the light cues for bacteria expulsion are not well-understood.
 1. Freeze microcentrifuge tubes at -80°C overnight.
 
+If using the spiral plating method to determine colonization levels, please refer to [this protocol](squid-colonization-with-spiral-plater.md) instead of doing the by-hand method below.
+
 ##### 5. Determination of Colonization Levels
 
 1. For each squid, prepare two (2) microcentrifuge tubes, each with 475 μl FSIO (or autoclaved 70% Instant Ocean).
