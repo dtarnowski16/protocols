@@ -10,7 +10,7 @@ Colonization experiments should be performed per lab protocol found [here](../fi
 
 ## Modifications to Squid Colonization Protocol
 
-### Step 14.14 - Changing the volume of the water with the squid
+### Step 4.14 - Changing the volume of the water with the squid
 
 Orignal Protocol: 
 > Transfer each squid in a volume of approximately 700 μl to a 1.5 ml microcentrifuge tube from Step 4.12. Move to a cardboard freezer box. Once the lid is placed on the box, do not remove it as the light cues for bacteria expulsion are not well-understood.
@@ -41,7 +41,7 @@ Revised Section 5 of the [Colonization Protocol](../files/squid-colonization.md)
 1. Vortex the tissue briefly for exactly 10 seconds (use a timer).
 1. Allow the tissue to rest for 10 min. The tissue will settle and the bacteria and ink remain in solution For the calculations that follow, the bacteria/ink solution is the [A] dilution (i.e. the *E. scolopes* light organ homogenate in 1 mL). Serial 1:20 dilutions [B] is described below.
 1. For the [B] dilution, add 50 μl [A] to one of the microcentrifuge tubes prepared in Step 5.1. Vortex.
-1. Plate using the Eddy Jet sprial plater
+1. Plate using the Eddy Jet spiral plater
 
 ## Plating squid with the EddyJet
 
@@ -56,4 +56,4 @@ Additional information on running the EddyJet or troubleshooting issues can be f
 
 
 
-Additional information on running the EddyJet or troubleshooting issues can be found [here](../files/spiral-plating.md).
+Additional information on running the SphereFlash or troubleshooting issues can be found [here](../files/spiral-plating.md).
