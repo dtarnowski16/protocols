@@ -52,3 +52,4 @@
 - Plate Reader
 - Leica EZ4 Steromicroscope
 - [Zeiss Axio Zoom V16 Microscope](files/zeiss_scope.md)
+- [Spiral Plating: Eddy Jet and Sphere Flash](files/spiral-plating.md)
